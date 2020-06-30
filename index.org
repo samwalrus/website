@@ -15,9 +15,7 @@
 
 [[yt:OjA36WMaGq4]]
 
-* Add something else
-
-* A new thing here
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyMDY1NjkzLC0xNzg5MjkxOTc2XX0=
+eyJoaXN0b3J5IjpbLTE0ODIwMjk0NzQsOTcyMDY1NjkzLC0xNz
+g5MjkxOTc2XX0=
 -->
